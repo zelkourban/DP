@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*.log
+tmp/
+datasets/*
+data/*
+*.pth
+*.pth.*
+*.mat
+*.tar
+*.py[cod]
+*.egg
+build
+htmlcov
