@@ -12,7 +12,7 @@ from tqdm import tqdm
 # from prettytable import PrettyTable
 from texttable import Texttable
 import argparse
-from niqe import niqe
+from utils.niqe import niqe
 import lpips
 import torch
 from test import test_dataset
